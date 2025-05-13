@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Lucas Dias Maciel
 
-<!--
-**lucdias/lucdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineer graduated from the Center for Informatics at UFPE (CIn/UFPE), currently working as a Data Scientist and Machine Learning Engineer.
 
-Here are some ideas to get you started:
+💡 Technology, linguistics, and sports enthusiast with strong interests in:
+- 🧠 Machine Learning & Deep Learning
+- 🗣️ Natural Language Processing & Language Modeling
+- 🤖 Reinforcement Learning & Large Language Models
+- ⚙️ ONNX & Cloud computing with AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I work daily with **Python** and also have experience with **C++**.  
+🔬 My background includes **mobile robotics**, **robotic automation for mobile testing**, and **software development**.  
+📊 I'm passionate about applying **artificial intelligence** to real-world problems — especially in **sports data forecasting**, **phonology**, and **language modeling**.
+
+---
+
+🌍 Feel free to connect or check out some of my work here on GitHub!
